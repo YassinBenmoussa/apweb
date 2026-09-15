@@ -14,5 +14,4 @@
 
 ![texto alternativo](assets/img/logogit.jpeg)
 
-
-
+### ANIBAL ES GAY
